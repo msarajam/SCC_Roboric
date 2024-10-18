@@ -1,2 +1,2 @@
 # SCC_Roboric
-scorrsdale community collage robotic club 
+Scottsdale Community College Robotic Club 
